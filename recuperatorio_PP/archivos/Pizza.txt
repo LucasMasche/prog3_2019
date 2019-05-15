@@ -1,0 +1,6 @@
+{"id":1,"sabor":"muzza","precio":"100","tipo":"piedra","cantidad":"12"}
+{"id":2,"sabor":"jamon","precio":"100","tipo":"piedra","cantidad":"26"}
+{"id":3,"sabor":"muzza","precio":"100","tipo":"molde","cantidad":"50"}
+{"id":4,"sabor":"especial","precio":"100","tipo":"molde","cantidad":"50"}
+{"id":5,"sabor":"especial","precio":"100","tipo":"piedra","cantidad":"29"}
+{"id":6,"sabor":"jamon","precio":"100","tipo":"molde","cantidad":4}
